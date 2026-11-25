@@ -6,7 +6,9 @@ Type a line of dialogue to find the quote, speaker when available, episode, time
 
 ## Try the demo
 
-From the checkout, run:
+Live: <https://michaelaperry.github.io/screengrab-archive/?q=moon>
+
+Or run it locally. From the checkout, run:
 
 ```sh
 python -m http.server 8080 --bind 127.0.0.1 --directory docs
