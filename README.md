@@ -14,7 +14,7 @@ python -m http.server 8080 --bind 127.0.0.1 --directory docs
 
 Open [the demo with a search for “moon”](http://127.0.0.1:8080/?q=moon). The result cards show a frame from the moving test pattern captured at each line's midpoint, alongside dialogue by Mica and Vale, the episode title, and the timestamp. Open a card to see neighboring lines.
 
-TODO: Add a browser screenshot of the demo search results.
+![Demo search for "moon"](docs/img/demo-search.png)
 
 The demo contains one silent synthetic episode, *The Toaster Treaty*, with 24 original subtitle lines and 24 generated WebP frames. See [how to rebuild it](docs/PUBLISHING.md#rebuild-the-demo).
 
