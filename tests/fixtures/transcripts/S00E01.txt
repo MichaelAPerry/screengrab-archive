@@ -1,0 +1,17 @@
+# title: Fixture: The Cabinet Hearing
+# source_url: fixture://tests/fixtures/transcripts/S00E01.txt
+[A cabinet rattles.]
+QUILL: Please unfold the meeting rug. Our cabinet is humming again.
+MICA: Is it humming in a major key?
+QUILL: The fog kind.
+FINCH: I brought a tuning fork.
+LUMEN: Finch, that fork is made of wax.
+FINCH: I collect jars of fog, and I label them by pitch.
+FINCH: That's what fog choir practice is for.
+ORBIT: I can hear it through my hat.
+MICA: Your hat has a built-in trumpet.
+ORBIT: The trumpet is purely ceremonial.
+LUMEN: This rug is calling for a recess.
+QUILL: Lumen, the rug has a vote.
+LUMEN: It keeps voting for Thursdays!
+FINCH: Motion to fold the rug.

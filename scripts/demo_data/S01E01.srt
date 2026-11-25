@@ -1,0 +1,95 @@
+1
+00:00:00,000 --> 00:00:03,000
+MICA: The moon has returned our toaster.
+
+2
+00:00:04,000 --> 00:00:07,000
+VALE: Did it remember the crumb tray?
+
+3
+00:00:08,000 --> 00:00:11,000
+MICA: It sent a receipt for three eclipses.
+
+4
+00:00:12,000 --> 00:00:15,000
+VALE: Put it in the drawer marked weather.
+
+5
+00:00:16,000 --> 00:00:19,000
+MICA: That drawer is full of tiny mayors.
+
+6
+00:00:20,000 --> 00:00:23,000
+VALE: Ask them to declare a cupboard holiday.
+
+7
+00:00:24,000 --> 00:00:27,000
+MICA: They want a flag with an edible corner.
+
+8
+00:00:28,000 --> 00:00:31,000
+VALE: We have one napkin and a jar of peach ink.
+
+9
+00:00:32,000 --> 00:00:35,000
+MICA: The napkin has already been elected.
+
+10
+00:00:36,000 --> 00:00:39,000
+VALE: Then give the toaster a ceremonial sash.
+
+11
+00:00:40,000 --> 00:00:43,000
+MICA: It says the sash voids its warranty.
+
+12
+00:00:44,000 --> 00:00:47,000
+VALE: What does the warranty cover?
+
+13
+00:00:48,000 --> 00:00:51,000
+MICA: Two slices and the idea of breakfast.
+
+14
+00:00:52,000 --> 00:00:55,000
+VALE: Could we trade the idea for a ladder?
+
+15
+00:00:56,000 --> 00:00:59,000
+MICA: The ladder is upstairs practicing its descent.
+
+16
+00:01:00,000 --> 00:01:03,000
+VALE: Tell it the moon is coming down for tea.
+
+17
+00:01:04,000 --> 00:01:07,000
+MICA: The moon says it only drinks from puddles.
+
+18
+00:01:08,000 --> 00:01:11,000
+VALE: Leave a puddle next to the biscuits.
+
+19
+00:01:12,000 --> 00:01:15,000
+MICA: The biscuits are demanding life jackets.
+
+20
+00:01:16,000 --> 00:01:19,000
+VALE: Cut two rings from the ceremonial sash.
+
+21
+00:01:20,000 --> 00:01:23,000
+MICA: That leaves one ring for the moon.
+
+22
+00:01:24,000 --> 00:01:27,000
+VALE: The moon can float on the receipt.
+
+23
+00:01:28,000 --> 00:01:31,000
+MICA: What do we toast while we wait?
+
+24
+00:01:32,000 --> 00:01:35,000
+VALE: The idea of breakfast is still under warranty.

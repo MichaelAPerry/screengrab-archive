@@ -1,0 +1,9 @@
+fastapi>=0.110
+uvicorn>=0.27
+pillow>=10.1
+rapidfuzz>=3.5
+# optional: timing from audio when an episode has no subtitles
+# faster-whisper>=1.0
+# dev
+pytest>=8
+httpx>=0.27
